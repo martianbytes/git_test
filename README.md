@@ -1,2 +1,2 @@
 # git_test
-just for testing
+This Repo is just for testing purpose only.
